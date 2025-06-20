@@ -18,7 +18,6 @@ This video will guide you through the process of setting up Julia for multi-thre
 ## Prerequisites
 
 - Julia version 1.5 or later
-- [IJulia] for Jupyter notebooks
 - Visual Studio Code with the Julia extension
 
 ## Configuring Thread Count
