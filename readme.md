@@ -1,6 +1,7 @@
 # JuliaLang VSCode Multi-Threading Configuration
 
 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [English](README.md) | [Español](README_es.md) | [(German) Deutsch](README_de.md) | [Français](README_fr.md) | [Italiano](README_it.md) | [Português](README_pt.md) | [(Russian) Русский](README_ru.md) | [(japanese) 日本語](README_ja.md) | [Chinese (Simplified) 简体中文](README_zh-CN.md) | [Chinese (Traditional) 繁體中文](README_zh-TW.md) | [Korean 한국어](README_ko.md) | [Polish Polski](README_pl.md) | [Turkish Türkçe](README_tr.md) | [Ukrainian Українська](README_uk.md) |
 
 [![Julia Logo](https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-language-logo-white-border.svg)](https://github.com/JuliaLang/julia-logo-graphics?tab=readme-ov-file)
